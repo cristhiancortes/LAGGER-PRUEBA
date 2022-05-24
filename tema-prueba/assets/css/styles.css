@@ -1,0 +1,28 @@
+.ciudad1{
+    margin-bottom: 10px;
+}
+
+.form{
+    border-radius: 15px;
+    background-color: #ffffff;
+    overflow: hidden;
+    box-shadow: 0 0 3px rgb(235, 235, 235);
+}
+
+.text-center{
+    font-size: 20px;
+    color: rgb(147, 146, 145);
+}
+
+.uno{
+
+    background-color: #593bd2;
+    padding: 5px 12px 5px 12px;
+    border-radius: 50px;
+    color: #ffffff;
+}
+
+.btn{
+    background-color: #593bd2;
+    padding: 10px 80px 10px 80px;
+}
