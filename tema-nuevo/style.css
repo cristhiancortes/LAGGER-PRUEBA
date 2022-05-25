@@ -1,0 +1,97 @@
+
+/*
+Theme Name: index-nuevooooo
+Theme URI: https://wordpress.org/
+Author: Cristhian Cortes
+Author URI: https://wordpress.org/
+Description: Subiendo plantilla para wordpress
+Tags: Prueba tecnica para LAGGER
+Version: 1.3
+Requires at least: 5.0
+Tested up to: 5.9
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: index-nuevooooo
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body{
+    background-repeat: repeat;
+    background-image: url(img/img1.png);
+    background-size: 100%;
+ }
+ 
+ .ciudad1{
+     margin-bottom: 10px;
+ }
+ 
+ .form{
+     border-radius: 15px;
+     background-color: #ffffff;
+     overflow: hidden;
+     box-shadow: 0 0 3px rgb(235, 235, 235);
+ }
+ 
+ .text-center{
+     font-size: 20px;
+     color: rgb(147, 146, 145);
+ }
+ 
+ .uno{
+ 
+     background-color: #593bd2;
+     padding: 5px 12px 5px 12px;
+     border-radius: 50px;
+     color: #ffffff;
+ }
+ 
+ .btn{
+     background-color: #593bd2;
+     padding: 10px 80px 10px 80px;
+ }
+ 
+ .img12{
+    
+    width: 550px;
+    height: 650px;
+    
+ }
+ 
+    .alert{
+      padding: 1em;
+      color: #ffffff;
+      border-radius: 2px;
+      margin-bottom: 10px;
+      font-size: 15px;
+  }
+ 
+  .alert.error{
+      background: #f2dede;
+      border: 1px solid #a94442;
+      color: #a94442;
+  }
+ 
+  .alert.success{
+      background: #4caf50;
+  }
+ 
+  .alert{
+     padding: 1em;
+     color: #ffffff;
+     border-radius: 2px;
+     margin-bottom: 10px;
+     font-size: 15px;
+ }
+ 
+ .alert.error{
+     background: #f2dede;
+     border: 1px solid #a94442;
+     color: #a94442;
+ }
+ 
+ .alert.success{
+     background: #4caf50;
+ }
+ 
